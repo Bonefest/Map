@@ -1,9 +1,0 @@
-1563.12 12.32 19295.1 528 461 /images/IMG_0525.jpg
-12124 124124 232 551 500 /images/IMG_0525.jpg
-0 0 0 500 432 /images/IMG_0525.jpg
-0 0 0 620 355 /images/IMG_0525.jpg
-0 0 0 886 164 /images/IMG_0525.jpg
-7 8 6 556 126 /images/IMG_0526.jpg
-908 876 763 745 502 /images/IMG_0766.jpg
-8.53212e+06 13532.9 5 644 352 /home/miofix/Programming/Qt/build-Map-Desktop-Debug/images/IMG_0536.jpg
-232 123 553 810 81 /home/miofix/Programming/Qt/build-Map-Desktop-Debug/images/IMG_0536.jpg
